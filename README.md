@@ -13,3 +13,4 @@ The rule I build by: **deterministic code owns the numbers; LLMs get judgment an
 - [nightscout-clock](https://github.com/miqcie/nightscout-clock) — CGM desk-clock firmware for my daughter's type 1 diabetes
 
 Richmond, VA · [linkedin.com/in/c-mcconnell](https://linkedin.com/in/c-mcconnell) · mcconnell.chris@gmail.com
+
