@@ -13,6 +13,8 @@ LLM's are neat, but they still need humans to keep them error-free and reliable.
 - [cmm.dev](https://cmm.dev) — this page, but terminal style, cuz why not?!?!
 - [nightscout-clock](https://github.com/miqcie/nightscout-clock) — esp32 firmware for type 1 diabetics.
 
+If something here helped you, you can [buy me a coffee](https://buymeacoffee.com/gq0aofrk4d).
+
 Richmond, VA · [linkedin.com/in/c-mcconnell](https://linkedin.com/in/c-mcconnell) · chris@humaine.studio
 
 Born in the PNW. Raised in the big sky of Idaho.
